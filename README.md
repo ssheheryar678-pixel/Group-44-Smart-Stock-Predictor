@@ -1,7 +1,7 @@
 # Group-44-Smart-Stock-Predictor
 
 ## Group Members
-- Sheheryar Khan  
+- Sheheryar Muzaffar 
 - Ezza Batool 
 
 ## Project Description
